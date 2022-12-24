@@ -1,14 +1,11 @@
 # EPE + Barbershop Idle Poses Compatch
 
-**Updated for 1.7.2**
+**Updated for 1.8.1**
 
 ## Introduction
 
 This mod fixes the Idle Poses compatibility with Fullscreen Barbershop and EPE (Ethnicities & Portraits expanded).
 
-The below compatch is outdated so I had to create one myself. I can't imagine playing CK3 without this fix.
-
-(Outdated) https://steamcommunity.com/sharedfiles/filedetails/?id=2777665783
 
 ## Installation
 
